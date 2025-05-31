@@ -1,5 +1,3 @@
-## Hi there 👋
-
 [I believe in center aligned 🤲]: #
 
 <div align="center">
