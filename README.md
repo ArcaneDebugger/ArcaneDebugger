@@ -24,7 +24,13 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://leetcode.com/aqchandra15/">
+<a href="">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgresSQL"/>
+</a>
+<a href="">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+</a>
+<a href="">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </a>
 
