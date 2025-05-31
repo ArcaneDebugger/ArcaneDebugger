@@ -24,4 +24,7 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black)
+<a href="https://leetcode.com/aqchandra15/">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgresSQL"/>
+</a>
+
