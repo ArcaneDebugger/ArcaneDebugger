@@ -23,7 +23,7 @@
 </a>
 </div>
 
-<h3 align="left">Tecnologías 💻</h3>
+<h3 align="left">Tecnologías 👨‍💻</h3>
 
 <p align="left">
   <a href=""><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
@@ -44,4 +44,18 @@
   <a href=""><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/></a>
   <a href=""><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
 </p>
+
+<h3 align="left">Herramientas 🔨</h3>
+
+<p align="left">
+  <a href=""><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Collab"/></a>
+  <a href=""><img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/></a>
+</p>
+
+
+
+
 
